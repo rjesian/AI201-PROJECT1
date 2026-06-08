@@ -1,0 +1,53 @@
+﻿TITLE Academic Dishonesty Advice CS
+
+
+POST: Hi, I was sent an email for academic dishonesty for a CS class that involves unauthorized collaboration on an assignment. I was sent the evidence and it shows that I had similar code to some random person in the class I never met before. It was like 2 methods (50-75 lines) out of a 700-800 line assignment where we had similar for loops for an assignment that really isn’t too complex and it was the most efficient. We were also given a hint page where it helped us understand and solve the problem. (Even gave some example code on how to solve it). I used that for help and I did my work myself and somehow the other person and I similar (kind of exact) lines of code. But the rest of the assignment was not similar at all and these blocks of codes were in completely different parts. I used MOSS which shows around a 20-25% similarity rate which is really low since some of the code had to be similar like the skeleton code or the print statements. (this was on codegrade and they use jplag) I was wondering if yall had any advice on what I should do and if anyone has beat a case like this? Should I try to appeal and fight it? I have my GitHub commits which show me work through the assignment and it was ALOT of committing. With the MOSS similarity number and the hint page that was given by prof I feel like I can win this case but this has been stressing me out way too much lately and been affecting my midterm 2s I hate this so much. I’m scared about how the hearing will go if I do go through with it as 99% cases are found guilty. Also, if I don’t appeal I have chance to pass the class but will have to take a Q course. But if I do appeal and I am found guilty I will fail the class and still take the Q course Summary: Suspected for cheating off someone / using same online sources as someone I DO NOT KNOW It was for loops/logic that is the right way to do the assignment and assisted by a hint page given from the professor to use. 50-75 lines out of 800. the rest of the assignment was completely different MOSS shows a 20-25% similarity (with code that is similar for everyone like print statements) My evidence: GitHub commits, my own MOSS checking, hint page provided by prof and the way I answered it was the most efficient. If I don’t appeal I can maybe still pass the course but with reduced grade and Q course. If I appeal and lose will most likely get a F and still take Q course
+
+
+COMMENTS:
+
+
+Appeal it Often times, demonstrating that you're willing to go this far shows a) you care, and b) you have nothing to hide.
+
+
+The hearing itself scares me it feels like it will be intense and it’s my words against theirs
+
+
+Obviously it sounds like you were reported out of caution/ a mistake. If you appeal it and speak with your professor, the accusation should get dropped. I was in a situation where a classmate of mine copied large sections of my lab report and submitted as their own. Both of us were accused of dishonesty but the charge ended up being dropped against me. I can definitely relate to the fear of "my word against theirs" regarding the upcoming hearing because I felt the same way. Although the hearing for my case never happened, I ended up serving on the Academic Judiciary Committee for a few years - and from my experience, the system was very fair to the accused. For a guilty verdict, I believe all 5 members of the hearing must vote unanimously. Also, 2 of those members are full-time students. In my opinion, you won't get to a hearing but if you did, it would be quickly tossed.
+
+
+You should show the prof your commits and if needed the diffs.
+
+
+Professor can’t do much after sending it to academic judiciary. Gotta go thru the board
+
+
+Maybe talk to the professor first and tell him your concerns about appealing it
+
+
+Once they tell the academic judiciary there is nothing the professor can do. He can maybe reduce the penalty if I don't appeal. Other then that it states to not go to the professor about this
+
+
+yes but he can possibly give you advice on what to do, not necessarily trying to appeal directly to him
+
+
+what class is this for?
+
+
+220
+
+
+Did you email Benz in an attempt to unsubmit your code?
+
+
+Why would I it’s my code
+
+
+I heard he baited students to unsubmit their code to "uncover" the cheaters.
+
+
+Just submit the example you mentioned that shows the same code format as you, you will be fine. You have the truth on your side I assume
+
+
+LINK:
+https://www.reddit.com/r/SBU/comments/1jzknv1/academic_dishonesty_advice_cs/
