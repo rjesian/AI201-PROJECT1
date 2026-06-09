@@ -37,15 +37,17 @@ def chunk_text(text, filename, chunk_size=500, overlap=50):
 
 docs = load_documents("redditdocs")
 
-all_chunks = []
-for doc in docs:
-    cleaned = clean_text(doc["text"])
-    chunks = chunk_text(cleaned, doc["filename"])
-    all_chunks.extend(chunks)
+if __name__ == "__main__":
+    docs = load_documents("redditdocs")
 
-print(f"Total chunks: {len(all_chunks)}")
-print("--- Sample Chunk 1 ---")
-print(all_chunks[0]["text"])
-print("--- Sample Chunk 2 ---")
-print(all_chunks[5]["text"])
+    all_chunks = []
+    for doc in docs:
+        cleaned = clean_text(doc["text"])
+        chunks = chunk_text(cleaned, doc["filename"])
+        all_chunks.extend(chunks)
 
+    print(f"Total chunks: {len(all_chunks)}")
+    print("--- Sample Chunk 1 ---")
+    print(all_chunks[0]["text"])
+    print("--- Sample Chunk 2 ---")
+    print(all_chunks[5]["text"])
