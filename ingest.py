@@ -17,6 +17,8 @@ def clean_text(text):
         line = line.strip()
         if line.startswith("LINK:"):
             continue
+        if "reddit.com" in line:
+            continue
         if line == "":
             continue
         cleaned_lines.append(line)
